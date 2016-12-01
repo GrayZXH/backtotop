@@ -1,0 +1,29 @@
+body{
+	font-family: "Helvetica Neue","Helvetica", "Microsoft Yahei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+}
+.navbar{
+	margin-bottom: 0;
+}
+.navbar-brand{
+	font-weight: bold;
+	font-size: 2em;
+}
+.con_r .con_r_con{
+	background-color: pink;
+	margin-top: 20px;
+}
+.con_l_nav{
+	margin-top: 20px;
+	text-align: center;
+}
+.con_l_nav li{
+	background-color: #F1F1F1;
+}
+/* 返回顶部 */
+#backToTop{
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	display: none;
+	z-index: 100;
+}
